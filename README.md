@@ -19,3 +19,7 @@ This repository is a personal learning log and reference for core Python concept
 
 ## 📁 Repository Structure
 
+basics/ → Core syntax and simple programs
+functions/ → Function declarations, lambda, higher-order functions
+data_structures/ → Lists, sets, dictionaries
+oop/ → Classes, inheritance, encapsulation
